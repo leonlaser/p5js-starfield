@@ -6,5 +6,5 @@ A simple starfield animation. You can enable a warp/hyper/jump/-drive animation 
 
 Made with [P5.js](https://p5js.org/).
 
-[Click here to test the starfield in your browser.](http://htmlpreview.github.io/?https://github.com/achjaderleon/p5js-starfield/blob/master/index.html)
+[Click here to test the starfield in your browser.](https://codepen.io/achjaderleon/pen/MWbxNaY)
 
